@@ -38,12 +38,14 @@ header {
 #title {
     color: #fff;
     font-size: 30px;
+    /*text-align: center;*/
     margin-bottom: 5px;
 }
 
-#subtitle {
+#subtitle{
     color: #9acfea;
-    font-size: 20px;
+    /*text-align: center;*/
+    font-size: 38px;
 }
 
 #decree-date {
